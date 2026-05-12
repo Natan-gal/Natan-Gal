@@ -16,4 +16,4 @@ Right now, I'm bridging the gap between web basics and powerful backend logic.
 I enjoy solving problems and turning ideas into clean, readable code.
 
 ---
-**How to reach me:** natangal066@gmail.com & https://www.linkedin.com/in/natan-gal-b2491540a/
+**How to reach me:** natangal066@gmail.com
