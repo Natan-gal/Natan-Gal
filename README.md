@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi there! I'm Natan 
 
-<!--
-**Natan-gal/Natan-Gal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an aspiring Software Developer currently gaining professional experience as an Intern at SovDevelo. 
+
+I'm passionate about building functional applications and constantly expanding my technical toolkit.
+
+
+
+Tech Stack & Tools
+
+Languages: C#, Python (Learning), HTML5, CSS
+
+Currently working on: Improving my backend logic in C# and exploring Python automation.
+
+Internship Focus: Collaborating on real-world projects and learning best industry practices at SovDevelo.
+
+
+
+### My Journey
+
+Right now, I'm bridging the gap between web basics and powerful backend logic. 
+
+I enjoy solving problems and turning ideas into clean, readable code.
+
+
+
+---
+
+How to reach me: natangal066@gmail.com
