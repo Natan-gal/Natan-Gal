@@ -4,11 +4,9 @@ I am an aspiring Software Developer currently gaining professional experience as
 I'm passionate about building functional applications and constantly expanding my technical toolkit.
 
 ### Tech Stack & Tools
-Know:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-learning:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 * **Currently working on:** Improving my backend logic in C# and exploring Python automation.
 * **Internship Focus:** Collaborating on real-world projects and learning best industry practices at SovDevelo.
