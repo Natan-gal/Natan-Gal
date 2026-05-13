@@ -1,6 +1,6 @@
 ###                                         Hi i'm Natan
 
-I am an aspiring Software Developer currently gaining professional experience as an **Intern at SovDevelo**. 
+I am an aspiring Software Developer currently gaining experience.
 I'm passionate about building functional applications and constantly expanding my technical toolkit.
 
 ### Tech Stack & Tools
